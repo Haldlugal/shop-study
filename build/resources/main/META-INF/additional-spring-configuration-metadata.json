@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.google.recaptcha.key.site",
+      "type": "java.lang.String",
+      "description": "Description for spring.google.recaptcha.key.site."
+  }
+] }
